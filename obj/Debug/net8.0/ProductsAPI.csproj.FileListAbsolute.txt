@@ -43,3 +43,13 @@ D:\ code\work code\HTML\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
 D:\ code\work code\HTML\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
 D:\ code\work code\HTML\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
 D:\ code\work code\HTML\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
+D:\ code\work code\HTML\ProductsAPI\obj\Debug\net8.0\ProductsAPI.sourcelink.json
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\ProductsAPI.staticwebassets.runtime.json
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ code\work code\HTML\ProductsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

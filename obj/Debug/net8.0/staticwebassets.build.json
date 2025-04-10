@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "P03WqnF6XiqASat3fHx+yONhQ/b4M46P4cLdkBQXw2M=",
+  "Hash": "0yy+cbMhxZSlqzdZtrIoOLfFxvvZopzyuLNI6o6uoGs=",
   "Source": "ProductsAPI",
   "BasePath": "_content/ProductsAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductsAPI\\wwwroot",
+      "Source": "ProductsAPI",
+      "ContentRoot": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\",
+      "BasePath": "_content/ProductsAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\css\\styles.css",
+      "SourceId": "ProductsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\",
+      "BasePath": "_content/ProductsAPI",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\index.html",
+      "SourceId": "ProductsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\",
+      "BasePath": "_content/ProductsAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\js\\products.js",
+      "SourceId": "ProductsAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\",
+      "BasePath": "_content/ProductsAPI",
+      "RelativePath": "js/products.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\products.js"
+    }
+  ]
 }

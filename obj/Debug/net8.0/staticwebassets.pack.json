@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ code\\work code\\HTML\\ProductsAPI\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductsAPI.props",
+      "PackagePath": "build\\ProductsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductsAPI.props",
+      "PackagePath": "buildMultiTargeting\\ProductsAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductsAPI.props",
+      "PackagePath": "buildTransitive\\ProductsAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
